@@ -1,0 +1,68 @@
+# Core Bible Access
+pysword>=0.2.7
+
+# Database
+sqlalchemy>=2.0.0
+alembic>=1.12.0
+
+# NLP and Analysis
+spacy>=3.7.0
+scikit-learn>=1.3.0
+pandas>=2.1.0
+numpy>=1.24.0
+
+# Web Scraping (for CAL, Perseus)
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+lxml>=4.9.0
+
+# Graph Analysis
+networkx>=3.2.0
+
+# API Framework (for building web service)
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.5.0
+
+# HTTP client
+httpx>=0.25.0
+
+# JSON handling
+orjson>=3.9.0
+
+# Text processing
+nltk>=3.8.0
+regex>=2023.10.0
+
+# Configuration
+python-dotenv>=1.0.0
+pyyaml>=6.0.0
+
+# Progress bars
+tqdm>=4.66.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Development
+black>=23.11.0
+flake8>=6.1.0
+mypy>=1.7.0
+
+# Documentation
+sphinx>=7.2.0
+sphinx-rtd-theme>=1.3.0
+
+# Jupyter support
+jupyter>=1.0.0
+ipykernel>=6.27.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Hebrew/Greek text processing
+transliterate>=1.10.2
+
+# Additional utilities
+click>=8.1.0  # CLI interface
+rich>=13.7.0  # Rich terminal output
